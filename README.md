@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Overview
+createSlice is a powerful utility provided by Redux Toolkit that streamlines the process of defining Redux actions and reducers. With createSlice, you can define both your actions and reducer logic in a single slice, reducing boilerplate code and making your Redux codebase more concise and maintainable.
